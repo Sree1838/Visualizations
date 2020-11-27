@@ -1,5 +1,5 @@
-# Visualizations
-Seaborn Visualizations
+# Seaborn Visualizations
+
 
 I have used HR Analytics data.
 
